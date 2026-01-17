@@ -1,0 +1,11 @@
+numpy
+gymnasium
+requests
+
+[train]
+stable-baselines3
+tensorboard
+torch
+
+[wandb]
+wandb

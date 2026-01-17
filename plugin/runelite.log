@@ -1,0 +1,32 @@
+> Task :compileJava UP-TO-DATE
+> Task :processResources UP-TO-DATE
+> Task :classes UP-TO-DATE
+
+> Task :runClient
+2026-01-16 22:30:25 AEDT [main] INFO  net.runelite.client.RuneLite - RuneLite 1.12.12 (launcher version unknown) starting up, args: --developer-mode
+2026-01-16 22:30:25 AEDT [main] INFO  net.runelite.client.RuneLite - Java VM arguments: -Xmx2g -Dfile.encoding=UTF-8 -Duser.country -Duser.language=en -Duser.variant -ea
+2026-01-16 22:30:28 AEDT [Preloader] INFO  net.runelite.client.rs.ClientLoader - injected-client 21037526920.15
+2026-01-16 22:30:28 AEDT [main] INFO  injected-client - read 5 credentials from disk
+2026-01-16 22:30:28 AEDT [main] INFO  n.r.client.account.SessionManager - No session file exists
+2026-01-16 22:30:28 AEDT [main] INFO  n.r.client.config.ConfigManager - Profile 'default' (sync: false, active: true, id: 3639906018226)
+2026-01-16 22:30:28 AEDT [main] INFO  n.r.client.config.ConfigManager - Using profile: default (3639906018226)
+2026-01-16 22:30:29 AEDT [main] INFO  n.r.c.plugins.kourendlibrary.Library - Library is now reset
+2026-01-16 22:30:30 AEDT [Client] ERROR injected-client - Error initializing sound engine. Audio will be unavailable.
+yg: 
+	at ab.at(ab.java:58172)
+	at aa.at(aa.java:39)
+	at co.aa(co.java:64)
+	at pi.hr(pi.java:1016)
+	at client.bf(client.java:11611)
+	at bm.bo(bm.java:463)
+	at bm.wh(bm.java)
+	at bm.run(bm.java:16938)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Caused by: java.lang.IllegalArgumentException: No line matching interface SourceDataLine supporting format PCM_SIGNED 22050.0 Hz, 16 bit, stereo, 4 bytes/frame, little-endian, and buffers of 16384 to 16384 bytes is supported.
+	at java.desktop/javax.sound.sampled.AudioSystem.getLine(AudioSystem.java:425)
+	at aa.at(aa.java:26)
+	... 7 common frames omitted
+2026-01-16 22:30:31 AEDT [main] INFO  n.r.client.discord.DiscordService - Initializing Discord RPC service.
+2026-01-16 22:30:34 AEDT [main] INFO  net.runelite.client.RuneLite - Client initialization took 9391ms. Uptime: 10545ms
+2026-01-16 22:30:35 AEDT [Client] INFO  n.r.client.plugins.gpu.GpuPlugin - Using device: llvmpipe (LLVM 20.1.2, 256 bits)
+2026-01-16 22:30:35 AEDT [Client] INFO  n.r.client.plugins.gpu.GpuPlugin - Using driver: 4.5 (Compatibility Profile) Mesa 25.0.7-0ubuntu0.24.04.2

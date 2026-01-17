@@ -1,0 +1,239 @@
+{
+  "Lumbridge": {
+    "center": [
+      3222,
+      3218
+    ],
+    "type": "city",
+    "features": [
+      "bank",
+      "furnace",
+      "range",
+      "trees",
+      "goblins"
+    ],
+    "teleport": "Home teleport"
+  },
+  "Varrock": {
+    "center": [
+      3213,
+      3428
+    ],
+    "type": "city",
+    "features": [
+      "bank",
+      "anvil",
+      "grand_exchange",
+      "trees"
+    ],
+    "teleport": "Varrock teleport"
+  },
+  "Falador": {
+    "center": [
+      2964,
+      3378
+    ],
+    "type": "city",
+    "features": [
+      "bank",
+      "mining_guild_nearby",
+      "furnace"
+    ],
+    "teleport": "Falador teleport"
+  },
+  "Edgeville": {
+    "center": [
+      3093,
+      3493
+    ],
+    "type": "city",
+    "features": [
+      "bank",
+      "furnace",
+      "wilderness_nearby",
+      "yew_trees"
+    ],
+    "teleport": "Amulet of glory"
+  },
+  "Ferox Enclave": {
+    "center": [
+      3142,
+      3633
+    ],
+    "type": "safe_zone",
+    "features": [
+      "bank",
+      "pool_of_refreshment",
+      "pvp_supplies"
+    ],
+    "teleport": "Ring of dueling"
+  },
+  "Draynor Village Willows": {
+    "center": [
+      3087,
+      3235
+    ],
+    "type": "woodcutting",
+    "features": [
+      "willow_trees",
+      "bank_nearby"
+    ],
+    "teleport": "Amulet of glory (Draynor)"
+  },
+  "Seers Village Maples": {
+    "center": [
+      2722,
+      3499
+    ],
+    "type": "woodcutting",
+    "features": [
+      "maple_trees",
+      "bank_very_close"
+    ],
+    "teleport": "Camelot teleport"
+  },
+  "Woodcutting Guild": {
+    "center": [
+      1658,
+      3505
+    ],
+    "type": "woodcutting",
+    "features": [
+      "all_trees",
+      "bank",
+      "invisible_boost"
+    ],
+    "teleport": "Skills necklace"
+  },
+  "Mining Guild": {
+    "center": [
+      3046,
+      9756
+    ],
+    "type": "mining",
+    "features": [
+      "coal",
+      "mithril",
+      "adamant",
+      "invisible_boost"
+    ],
+    "teleport": "Skills necklace"
+  },
+  "Motherlode Mine": {
+    "center": [
+      3760,
+      5670
+    ],
+    "type": "mining",
+    "features": [
+      "pay_dirt",
+      "prospector_outfit"
+    ],
+    "teleport": "Skills necklace"
+  },
+  "Cows (Lumbridge)": {
+    "center": [
+      3253,
+      3270
+    ],
+    "type": "combat",
+    "features": [
+      "cows",
+      "cowhides",
+      "low_level"
+    ],
+    "monsters": [
+      "Cow"
+    ]
+  },
+  "Chickens (Lumbridge)": {
+    "center": [
+      3235,
+      3295
+    ],
+    "type": "combat",
+    "features": [
+      "chickens",
+      "feathers",
+      "very_low_level"
+    ],
+    "monsters": [
+      "Chicken"
+    ]
+  },
+  "Rock Crabs": {
+    "center": [
+      2707,
+      3714
+    ],
+    "type": "combat",
+    "features": [
+      "rock_crabs",
+      "afk",
+      "low_defence"
+    ],
+    "monsters": [
+      "Rock crab"
+    ]
+  },
+  "Sand Crabs": {
+    "center": [
+      1726,
+      3463
+    ],
+    "type": "combat",
+    "features": [
+      "sand_crabs",
+      "afk",
+      "low_defence"
+    ],
+    "monsters": [
+      "Sand crab"
+    ]
+  },
+  "Ammonite Crabs": {
+    "center": [
+      3706,
+      3880
+    ],
+    "type": "combat",
+    "features": [
+      "ammonite_crabs",
+      "fossil_island",
+      "best_afk"
+    ],
+    "monsters": [
+      "Ammonite crab"
+    ]
+  },
+  "Slayer Tower": {
+    "center": [
+      3429,
+      3538
+    ],
+    "type": "slayer",
+    "features": [
+      "crawling_hands",
+      "banshees",
+      "infernal_mages",
+      "bloodvelds",
+      "gargoyles",
+      "nechryaels",
+      "abyssal_demons"
+    ],
+    "teleport": "Slayer ring"
+  },
+  "Catacombs of Kourend": {
+    "center": [
+      1666,
+      10049
+    ],
+    "type": "slayer",
+    "features": [
+      "many_monsters",
+      "ancient_shards",
+      "totem_pieces"
+    ],
+    "teleport": "Kourend portal"
+  }
+}

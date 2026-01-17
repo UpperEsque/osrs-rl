@@ -1,0 +1,177 @@
+{
+  "Tree": {
+    "id": 1276,
+    "type": "tree",
+    "skill": "woodcutting",
+    "level": 1,
+    "xp": 25
+  },
+  "Oak tree": {
+    "id": 10820,
+    "type": "tree",
+    "skill": "woodcutting",
+    "level": 15,
+    "xp": 37.5
+  },
+  "Willow tree": {
+    "id": 10819,
+    "type": "tree",
+    "skill": "woodcutting",
+    "level": 30,
+    "xp": 67.5
+  },
+  "Maple tree": {
+    "id": 10832,
+    "type": "tree",
+    "skill": "woodcutting",
+    "level": 45,
+    "xp": 100
+  },
+  "Yew tree": {
+    "id": 10822,
+    "type": "tree",
+    "skill": "woodcutting",
+    "level": 60,
+    "xp": 175
+  },
+  "Magic tree": {
+    "id": 10834,
+    "type": "tree",
+    "skill": "woodcutting",
+    "level": 75,
+    "xp": 250
+  },
+  "Redwood tree": {
+    "id": 29668,
+    "type": "tree",
+    "skill": "woodcutting",
+    "level": 90,
+    "xp": 380
+  },
+  "Copper rock": {
+    "id": 10943,
+    "type": "rock",
+    "skill": "mining",
+    "level": 1,
+    "xp": 17.5
+  },
+  "Tin rock": {
+    "id": 10941,
+    "type": "rock",
+    "skill": "mining",
+    "level": 1,
+    "xp": 17.5
+  },
+  "Iron rock": {
+    "id": 10945,
+    "type": "rock",
+    "skill": "mining",
+    "level": 15,
+    "xp": 35
+  },
+  "Coal rock": {
+    "id": 10947,
+    "type": "rock",
+    "skill": "mining",
+    "level": 30,
+    "xp": 50
+  },
+  "Gold rock": {
+    "id": 10949,
+    "type": "rock",
+    "skill": "mining",
+    "level": 40,
+    "xp": 65
+  },
+  "Mithril rock": {
+    "id": 10951,
+    "type": "rock",
+    "skill": "mining",
+    "level": 55,
+    "xp": 80
+  },
+  "Adamantite rock": {
+    "id": 10953,
+    "type": "rock",
+    "skill": "mining",
+    "level": 70,
+    "xp": 95
+  },
+  "Runite rock": {
+    "id": 10955,
+    "type": "rock",
+    "skill": "mining",
+    "level": 85,
+    "xp": 125
+  },
+  "Fishing spot (net)": {
+    "id": 1530,
+    "type": "fishing",
+    "skill": "fishing",
+    "level": 1,
+    "xp": 10
+  },
+  "Fishing spot (fly)": {
+    "id": 1526,
+    "type": "fishing",
+    "skill": "fishing",
+    "level": 20,
+    "xp": 50
+  },
+  "Fishing spot (cage)": {
+    "id": 1519,
+    "type": "fishing",
+    "skill": "fishing",
+    "level": 40,
+    "xp": 90
+  },
+  "Fishing spot (harpoon)": {
+    "id": 1520,
+    "type": "fishing",
+    "skill": "fishing",
+    "level": 35,
+    "xp": 80
+  },
+  "Bank booth": {
+    "id": 10583,
+    "type": "bank",
+    "skill": null,
+    "level": 0,
+    "xp": 0
+  },
+  "Bank chest": {
+    "id": 12308,
+    "type": "bank",
+    "skill": null,
+    "level": 0,
+    "xp": 0
+  },
+  "Furnace": {
+    "id": 16469,
+    "type": "furnace",
+    "skill": "smithing",
+    "level": 1,
+    "xp": 0
+  },
+  "Anvil": {
+    "id": 2097,
+    "type": "anvil",
+    "skill": "smithing",
+    "level": 1,
+    "xp": 0
+  },
+  "Range": {
+    "id": 9682,
+    "type": "range",
+    "skill": "cooking",
+    "level": 1,
+    "xp": 0
+  },
+  "Fire": {
+    "id": 26185,
+    "type": "fire",
+    "skill": "cooking",
+    "level": 1,
+    "xp": 0
+  }
+}
