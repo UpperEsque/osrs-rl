@@ -1,0 +1,31 @@
+# Compiled
+__pycache__/
+*.pyc
+*.pyo
+.gradle/
+build/
+*.jar
+*.class
+
+# Archives (don't commit these)
+*.zip
+*.tar.gz
+
+# Windows junk
+*Zone.Identifier
+
+# Models (too large for git)
+models/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Logs
+*.log
+tb/
+tensorboard/
+
+# Secrets
+**/WIN_IP*
